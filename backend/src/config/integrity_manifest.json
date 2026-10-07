@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-09-18T21:07:56.242Z",
+  "files": {
+    "src/app.js": "4ca3a3e9dde404eea8d1bb84a88f931b665e692e87e7b89642eef66e9a96e91a",
+    "src/middleware/auth.js": "48b169984eef4f6577e0ad47b06b7f4f0f1f2f1c46cf63c79954db99303a4452",
+    "src/middleware/securityGuard.js": "a523b0d8d4193e8fbe88e664c2c019afc0702f96a6a7be89096be3d640918202",
+    "src/routes/sos.js": "01def388511cab7dce95e9959dc9da525929ae76d25e6b537d3f630264ee92b0",
+    "src/routes/announcements.js": "bd4429d47ab87357a681c81e0c8aa15f3606d3e432795efa3287a1da716a3a48",
+    "src/routes/sync.js": "fd91faedcbca410d542e63f465b01658dbcaee15dcd8a0d5fd88885b5f3dd8cf",
+    "src/routes/security.js": "85574e97d220d4daed48cad0fae0c581f7a91282cb1edb3b5c6f6748f909cd4d",
+    "src/config/database.js": "699e0a2c9836c1fe4d09f7a9702eba5e34703166098f4b0a5446a4cb048f6975",
+    "src/services/securityLockService.js": "eefb29a41251e4dc85a2dbd13360284a4ffe86bddc03f87ef9e5140da891bce9",
+    "src/services/webIngester.js": "b2383205e38a5a416455221bdab8c909d475e38c73b4c8660c46fc6712bdc52e"
+  }
+}

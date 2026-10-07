@@ -1,0 +1,45 @@
+name: kumbh_app
+description: Kumbh Mela Official App
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  shared_preferences: ^2.5.4
+  flutter_riverpod: ^2.5.1
+  dio: ^5.4.3+1
+  sqflite: ^2.3.2
+  sqflite_common_ffi_web: ^1.0.0
+  path_provider: ^2.1.2
+  path: ^1.9.0
+  connectivity_plus: ^6.0.3
+  url_launcher: ^6.3.0
+  geolocator: ^14.0.3
+  flutter_tts: ^4.2.5
+  speech_to_text: ^7.0.0
+  image_picker: ^1.1.2
+  table_calendar: ^3.1.2
+  cached_network_image: ^3.4.1
+  flutter_map: ^8.3.2
+  latlong2: ^0.10.1
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/images/ghat_dawn.jpg
+    - assets/images/place_sample.jpg
+    - assets/images/event_sample.jpg
+    - assets/images/kumbh_logo.png
+    - assets/images/KM_logo.png
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
